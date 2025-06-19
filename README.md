@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Model-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 This repository contains a beginner-friendly Jupyter Notebook that demonstrates the **Support Vector Machine (SVM)** algorithm using Python and `scikit-learn`. The notebook covers model training, prediction, and evaluation with step-by-step explanations.
